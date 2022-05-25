@@ -1,0 +1,22 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+header {
+    background-color: rgb(39, 33, 33);
+    height: 120px;
+}
+
+.icone-controle {
+    width: 50px;
+   
+}
+
+.menu {
+    color: white;
+}
+
+.destaques {
+   
+}
